@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241068843257",
+    "project_id": "adposter-938c3",
+    "storage_bucket": "adposter-938c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241068843257:android:f389538db8f67b64d8c228",
+        "android_client_info": {
+          "package_name": "com.chattha.adposter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241068843257-5e3mra1hj1mtqcl4er8huv035ostt7uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxj5msmXE7SQ4XlhG16-fGtt8HGAGsur0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241068843257-5e3mra1hj1mtqcl4er8huv035ostt7uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
